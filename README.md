@@ -1,1 +1,1 @@
-# armstrong-number
+# assignments
